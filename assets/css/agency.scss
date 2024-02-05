@@ -35,5 +35,6 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @media only screen and (max-width: 600px) {
 	header.masthead .intro-text .intro-lead-in {font-size: 14px; margin-bottom: 16px;}
 	header.masthead .intro-text .intro-heading {font-size: 12px; margin-bottom: 16px;}
-	.btn-xl {font-size: 12px; padding: 12px 10px;}
+	header.masthead .intro-text {padding-top: 285px; padding-bottom: 258px;}
+	.btn-xl {font-size: 12px; padding: 12px 10px;}	
 }
