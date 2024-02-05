@@ -37,5 +37,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 	header.masthead .intro-text .intro-heading {font-size: 12px; margin-bottom: 16px;}
 	header.masthead .intro-text {padding-top: 285px; padding-bottom: 258px;}
 	.page-section h2.section-heading {font-size: 30px;}
+	.page-section {padding: 50px 0;}
+	h4 {font-size: 1.1rem;}
 	.btn-xl {font-size: 12px; padding: 12px 10px;}	
 }
