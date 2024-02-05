@@ -11,20 +11,19 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Shop"
       section: services
-    - title: "Portfolio"
+    - title: "Type"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "Gender"
       section: timeline
-    - title: "Team"
+    - title: "Medsoc"
       section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
+    - title: "Contact Us"
+      url: /contactus
 en-US:
   <<: *DEFAULT_EN
 en-CA:
