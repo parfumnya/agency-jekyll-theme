@@ -1,19 +1,21 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: Parfum Refill Mini Spray
+subtitle: Parfumnya parfum refill mini spray mudah dibawa kemanapun
+image: /assets/img/portfolio/05-thumbnail.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Parfum Mini Spray
+  subtitle: Parfum Spray 10 ml
+  thumbnail: /assets/img/portfolio/05-thumbnail.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Tersedia beberapa aroma wangi pilihan untuk pria, wanita, unisex.
+Parfumnya parfum refill mini spray dibuat secara mendadak saat ada pesanan.
+Parfum refill mini spray **parfumnya** Wanginya tahan lama, sangat cocok digunakan untuk sehari-hari.
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: January 2024
+- Client: Parfum Refill MS10
+- Category: Parfum Refill Spray
