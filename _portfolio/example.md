@@ -1,22 +1,24 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
-  
+  title: Parfum Spray
+  subtitle: Parfum Spray 35 ml
+  thumbnail: /assets/img/portfolio/04-thumbnail.jpg
+
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Parfum Refill Spray
+subtitle: parfumnya parfum refill premium spray 35 ml
+image: /assets/img/portfolio/04-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+Tersedia beberapa aroma wangi pilihan untuk pria, wanita, unisex.
+Parfumnya parfum refill dibuat secara mendadak saat ada pesanan.
+Parfum refill **parfumnya** Wanginya tahan lama, sangat cocok digunakan untuk sehari-hari.
 
-optional info list (delete if not using):
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+
+{:.list-inline}
+- Date: Januari 2024
+- Client: Parfum Refill S35
+- Category: Parfum Refill Spray
 
