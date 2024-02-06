@@ -80,16 +80,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Parfum Refill Pria"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://parfumnya.github.io/
         logo: assets/img/clients/creative-1.jpg
       - title: "Parfum Refill Wanita"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://parfumnya.github.io/
         logo: assets/img/clients/creative-2.jpg
       - title: "Parfum Refill Unisex"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: hhttps://parfumnya.github.io/
         logo: assets/img/clients/creative-3.jpg
       - title: "Parfum Roll On"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://parfumnya.github.io/
         logo: assets/img/clients/creative-4.jpg
 
   team:
