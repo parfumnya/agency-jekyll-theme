@@ -2,7 +2,7 @@
 
 ## Kunjungi - [parfumnya.github.io](https://parfumnya.github.io/)
 
-[![screenshot](/screenshot.PNG)]
+[screenshot](/screenshot.PNG)
 
 ## Note
 
