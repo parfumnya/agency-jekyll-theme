@@ -1,6 +1,6 @@
 # Parfum Refill Parfumnya
 
-## Kunjungi - [parfumnya.github.io]{https://parfumnya.github.io/}
+## Kunjungi - [parfumnya.github.io](https://parfumnya.github.io/)
 
 [![screenshot](/screenshot.PNG)]
 
