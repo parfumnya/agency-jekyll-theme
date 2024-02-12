@@ -65,10 +65,10 @@ Untuk masing-masing aroma parfum memiliki aroma khasnya, ada aroma yang berkesan
 Memesan produk parfum refill di parfumnya cukup mudah mudah. Untuk memesan dapat dilakukan dengan mengunjungi toko online shopee, lazada, tokopedia ataupun tiktok shop.
 Berikut dibawah ini daftar toko online parfumnya :
 
-- [Shopee - Parfumnya Refill Parfume](https://shopee.co.id/parfumnyarefillparfume?categoryId=100630&entryPoint=ShopByPDP&itemId=24956456815)
-- [Lazada - Parfumnya Refill Parfume](https://www.lazada.co.id/shop/parfumnya-refill-parfume/?spm=a2o4j.pdp_revamp.seller.1.26906b849E2Tzw&itemId=7986024393&channelSource=pdp)
-- [Tokopedia - PARFUMNYA](https://www.tokopedia.com/parfumnya)
-- [Tiktok Shop - PARFUMNYA](https://vt.tokopedia.com/t/ZSFYpLrJD/)
+- [Shopee - Parfumnya Refill Parfume](https://shopee.co.id/parfumnyarefillparfume?categoryId=100630&entryPoint=ShopByPDP&itemId=24956456815){:target="_blank"}{:rel="noopener noreferrer"}
+- [Lazada - Parfumnya Refill Parfume](https://www.lazada.co.id/shop/parfumnya-refill-parfume/?spm=a2o4j.pdp_revamp.seller.1.26906b849E2Tzw&itemId=7986024393&channelSource=pdp){:target="_blank"}{:rel="noopener noreferrer"}
+- [Tokopedia - PARFUMNYA](https://www.tokopedia.com/parfumnya){:target="_blank"}{:rel="noopener noreferrer"}
+- [Tiktok Shop - PARFUMNYA](https://vt.tokopedia.com/t/ZSFYpLrJD/){:target="_blank"}{:rel="noopener noreferrer"}
 
 Mengenai harga produk parfum refill parfumnya janganlah khawatir. harganya cukup terjangkau.
 
