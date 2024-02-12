@@ -21,9 +21,10 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Medsoc"
       section: team
-
     - title: "Contact Us"
       url: /contactus
+    - title: "Blog Page"
+      url: /blog
 en-US:
   <<: *DEFAULT_EN
 en-CA:
