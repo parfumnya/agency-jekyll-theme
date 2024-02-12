@@ -42,4 +42,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 	h4 {font-size: 1.1rem;}
 	.portfolio-modal .modal-content h2 {font-size: 1.2em;}
 	.btn-xl {font-size: 12px; padding: 12px 10px;}	
+	.post h1 {font-size: 30px;}
+	.post h3 {font-size: 22px;}
+	#pagecontainer article {padding-top: 100px;}
 }
