@@ -53,10 +53,10 @@ Adapun, beberapa pilihan aroma yang disediakan saat ini, diantaranya :
 ### Parfum Roll On
 #### Aroma Parfum Roll On Untuk Pria Atau Wanita
 ---
-- Malaikat Shubuh
-- Kasturi Putih
-- Kasturi Kijang
-- Gaharu Mix
+- M4L41K4T 5HUBUH
+- K45TUR1 PUT1H
+- K45TUR1 KIJ4N9
+- G4H4RU M1X
 
 Untuk masing-masing aroma parfum memiliki aroma khasnya, ada aroma yang berkesan manis, bunga, buah-buahan, segar, hangat, alam, woody dan lain sebagainya.
 
