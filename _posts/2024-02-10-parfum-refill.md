@@ -40,6 +40,8 @@ Adapun, beberapa pilihan aroma yang disediakan saat ini, diantaranya :
 - BL4CK 0P1UM
 - H4R4ZUKU L0V3
 - P4R15 H1LT0N
+- 1553Y M1Y4K3
+- V1CT0R14 SC4ND4L0U5
 
 #### Aroma Parfum Refill Untuk Pria Atau Wanita (Unisex) :
 ---
