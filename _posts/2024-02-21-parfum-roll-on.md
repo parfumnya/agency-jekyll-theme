@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Parfum Refill Parfumnya Spray dan Roll On
-description: Parfum Refill Parfumnya
-categories: [Parfum]
+title: Parfum Roll On Parfumnya
+description: Parfum Roll On Parfumnya Wanginya Tahan Lama
+categories: [Parfum Roll On]
 ---
 
 **Parfumnya** menyediakan produk **parfum refill** dengan banyak pilihan aroma yang cocok digunakan baik untuk pria ataupun wanita. Terdapat 2 (dua) model parfum refill yang tersedia di **parfumnya**, yakni : 
