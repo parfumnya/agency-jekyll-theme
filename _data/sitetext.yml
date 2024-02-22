@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: parfum refill
+    title: parfum refill/isi ulang premium spray dan roll on
     text: Wangi Setiap Saat
     button: Tell Me More
     buttonlink: "#services"
@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[Shopee](https://shopee.co.id/parfumnyarefillparfume?categoryId=100630&entryPoint=ShopByPDP&itemId=25456448666)"
-        desc: "Kunjungi toko parfum **Parfumnya Refill Parfume** di online shop **Shopee** dan dapatkan diskon menarik untuk setiap pembelian parfum refill"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Kunjungi toko parfum **Parfumnya Refill Parfume** di online shop **Shopee** dan dapatkan diskon menarik untuk setiap pembelian parfum refill"				
+        icon: "fas fa-shopping-cart" #find more at https://fontawesome.com/icons		
       - title: "[Lazada](https://www.lazada.co.id/shop/parfumnya-refill-parfume/?spm=a2o4j.pdp_revamp.seller.1.b95b5b7e5dewUE&itemId=7959764815&channelSource=pdp)"
         desc: "Kunjungi toko parfum **Parfumnya Refill Parfume** di online shop **Lazada** dan dapatkan diskon menarik untuk setiap pembelian parfum refill"
         icon: fas fa-laptop
@@ -86,7 +86,7 @@ en: &DEFAULT_EN
         url: https://parfumnya.github.io/
         logo: assets/img/clients/creative-2.jpg
       - title: "Parfum Refill Unisex"
-        url: hhttps://parfumnya.github.io/
+        url: https://parfumnya.github.io/
         logo: assets/img/clients/creative-3.jpg
       - title: "Parfum Roll On"
         url: https://parfumnya.github.io/
