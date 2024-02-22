@@ -30,8 +30,6 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
-  portfolio:
 
 markdown: kramdown
 
@@ -42,6 +40,7 @@ plugins:
   - jekyll-seo-tag
 
 collections:
+  portfolio:
   pages:
     output: true
     permalink: /:path
