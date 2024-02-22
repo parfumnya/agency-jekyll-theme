@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Online Shop"
-    text: "Tersedia di toko online"
+    text: "Miliki produk parfum refill/isi ulang premium melalui toko online"
     section: services
     list:
       - title: "[Shopee](https://shopee.co.id/parfumnyarefillparfume?categoryId=100630&entryPoint=ShopByPDP&itemId=25456448666)"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Parfum Refill"
-    text: "Pilih mana yang kamu suka dalam penggunaan parfum refill yang segar dan wangi"
+    text: "Tersedia beberapa model dan ukuran produk parfum isi ulang/refill"
     section: portfolio
     closebutton: "Close Project"
 
@@ -45,23 +45,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Parfum Refill Pria"
-        year: "Masculine"
-        desc: "Parfum refill dengan aromanya yang cocok untuk pria"
+        year: "01"
+        desc: "Tersedia beberapa pilihan aroma parfum untuk pria : CH 212 M3N, 4NT0N10 B4ND3R45, DUNH1LL R3D dan lain-lain"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Parfum Refill Wanita"
-        year: "Feminin"
-        desc: "Parfum refill dengan aromanya yang cocok untuk wanita"
+        year: "02"
+        desc: "Tersedia beberapa pilihan aroma parfum untuk wanita: 4N93L H34RT, P4R15 H1LT0N, 53L3N4 90M35 dan lain-lain"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Parfum Refill Unisex"
-        year: "Oriental"
-        desc: "Parfum refill dengan aroma yang cocok digunakan oleh pria maupun wanita"
+        year: "03"
+        desc: "Tersedia beberapa pilihan aroma parfum untuk pria atau wanita : 35C4D4 9R4VITY, 45H4NTY, T4YL0R 5W1FT dan lain-lain"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Parfum Roll On"
-        year: "Non Alkohol"
-        desc: "Parfum roll on, wanginya tahan lama"
+        year: "04"
+        desc: "Tersedia beberapa pilihan aroma parfum untuk pria atau wanita : M4L51K4T 5HUBUH, K45TUR1 PUT1H, K45TUR1 K1J4NG, 94H4RU M1X dan lain-lain"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "PARFUMNYA"
     text: "our story"
-    body: "Kami memulai dengan ide sederhana untuk memberikan yang terbaik kepada Anda. Dari pendiri hingga pekerja garis depan, kami menaruh banyak cinta dan pemikiran yang cermat dalam semua yang kami lakukan. Kami harap Anda menikmati semua yang kami tawarkan, dan dapat berbagi pengalaman dengan orang lain."
+    body: "**PARFUMNYA** melayani pesanan produk parfum refill/isi ulang model spray dan roll on. Tersedia beberapa pilihan aroma yang segar dan menyenangkan untuk pria ataupun wanita dan harganya sangat terjangkau. Cara pemesanannya cukup mudah, dapat dipesan melalui toko online seperti shopee, lazada, tokopedia dan tiktok shop. Produk parfum refill/isi ulang **parfumnya** dirancang sedemikian rupa agar memiliki wangi yang tahan lama." 
     section: about
 
   clients:
