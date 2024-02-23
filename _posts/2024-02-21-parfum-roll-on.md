@@ -20,6 +20,7 @@ Adapun, beberapa pilihan aroma yang disediakan saat ini, diantaranya :
 - K45TUR1 PUT1H
 - K45TUR1 KIJ4N9
 - G4H4RU M1X
+- K15WAH
 
 Untuk masing-masing aroma parfum memiliki aroma khasnya.
 
