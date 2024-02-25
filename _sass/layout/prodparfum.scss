@@ -1,0 +1,81 @@
+
+@media only screen and (max-width: 600px) {
+  .cardflex {gap: 3px !important; padding: 0 !important}
+  .cardflex button {font-size: 12px !important; padding: 3px}
+  .subcardflex {width: 150px !important;}
+  .infoharga {font-size: 12px !important}
+  .subcardflex h1 {font-size: 12px !important}
+  .subcardflex .price {font-size: 12px !important; margin-top: 5px; margin-bottom: 5px;}
+  .subcardflex p {font-size: 8px !important; line-height: 12px}
+
+}
+.infoharga {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+ border-right: 6px solid #2196F3;
+  margin-bottom: 15px;
+  padding: 4px 12px;
+}
+.cardflex {
+  display: flex;
+  flex-wrap: wrap;  
+  gap: 10px;
+  justify-content: center;
+  background-color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-family: arial;
+}
+.subcardflex h1 {
+  font-size: 1vw;
+	padding-top: 10px;
+	margin-bottom: 0;
+}
+
+.subcardflex {
+  width: 280px;
+}
+
+.price {
+  color: #e35703;
+  font-size: 18px;
+	text-align: left;
+}
+
+.cardflex button {
+  border: none;
+  outline: 0;  
+  color: white;
+  background-color: #045e51;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+
+.cardflex button:hover {
+  opacity: 0.7;
+}
+
+.s-subcardflex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 12px;
+  border-top: 1px solid #d9d4d4;
+  border-bottom: 1px solid #d9d4d4;
+}
+
+.dkripsi {
+  margin: 0;
+  font-size: 14px;
+}
+
+.mdl, .vlm, .price {
+  margin: 0;  
+	padding: 0 10px 0 10px;
+}
+
+.vlm {
+  color: #06953e;
+}

@@ -41,6 +41,7 @@ plugins:
 
 collections:
   portfolio:
+  prodparfum:
   pages:
     output: true
     permalink: /:path

@@ -110,6 +110,11 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/company/101803915
             icon: fab fa-linkedin-in
 
+  prodparfum:
+   title: "Parfum Isi Ulang"
+   text: "Parfum isi ulang/refill premium, dibuat hanya saat ada pesanan saja."
+   section: prodparfum
+
 
 
   footer:

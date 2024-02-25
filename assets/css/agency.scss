@@ -32,6 +32,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
 @import "layout/post.scss";
+@import "layout/prodparfum.scss";
 
 @media only screen and (max-width: 600px) {
 	header.masthead .intro-text .intro-lead-in {font-size: 14px; margin-bottom: 16px;}
