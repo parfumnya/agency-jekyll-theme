@@ -50,6 +50,7 @@ Adapun, beberapa pilihan aroma yang disediakan saat ini, diantaranya :
 - BVL94R1 4QV4
 - T4YL0R 5W1FT
 - 45H4NTY
+- CUDDL3
 
 ### Parfum Roll On
 #### Aroma Parfum Roll On Untuk Pria Atau Wanita
