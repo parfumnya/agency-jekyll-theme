@@ -7,7 +7,7 @@ categories: [Parfum]
 
 **Parfumnya** menyediakan produk **parfum refill** dengan banyak pilihan aroma yang cocok digunakan baik untuk pria ataupun wanita. Terdapat 2 (dua) model parfum refill yang tersedia di **parfumnya**, yakni : 
 
-- Parfum Spray,
+- [Parfum Spray]({%link _posts/2024-02-26-parfum-spray.md %}),
 - [Parfum Roll On]({%link _posts/2024-02-21-parfum-roll-on.md %})
 
 Sementara untuk ukuran botol spray dan roll on, saat ini **parfum refill parfumnya** hanya menyediakan beberapa ukuran saja, diantaranya : 

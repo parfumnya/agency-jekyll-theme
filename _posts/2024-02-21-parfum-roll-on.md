@@ -26,7 +26,7 @@ Untuk masing-masing aroma parfum memiliki aroma khasnya.
 
 ### Pemesanan
 
-Memesan produk parfum roll on di parfumnya cukup mudah mudah. Untuk memesannya dapat dilakukan melalui toko online shopee, lazada, tokopedia ataupun tiktok shop.
+Memesan produk parfum roll on di parfumnya cukup mudah. Untuk memesannya dapat dilakukan melalui toko online shopee, lazada, tokopedia ataupun tiktok shop.
 Berikut dibawah ini daftar toko online parfumnya :
 
 - [Shopee - Parfumnya Refill Parfume](https://shopee.co.id/parfumnyarefillparfume?categoryId=100630&entryPoint=ShopByPDP&itemId=24956456815){:target="_blank"}{:rel="noopener noreferrer"}
